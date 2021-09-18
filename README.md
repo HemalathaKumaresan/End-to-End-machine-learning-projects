@@ -1,11 +1,11 @@
 # End-to-End-machine-learning-project with Streamlit
 
-#Deep Neural Network
+__Deep Neural Network__
 
-Dataset used : mnist dataset
+Dataset used : __mnist dataset__
 
-Run environment: Visual Studio Code
+Run environment: __Visual Studio Code__
 
-Here we have trained the model and evaluated the model
+Here we have __trained__ the model and __evaluated__ the model
 
-The results are shown in a graph between training and validation.
+The __results__ are shown in a __plot__ between __training and validation__(matplotlib).
