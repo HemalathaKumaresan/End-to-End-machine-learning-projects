@@ -9,3 +9,7 @@ Run environment: __Visual Studio Code__
 Here we have __trained__ the model and __evaluated__ the model
 
 The __results__ are shown in a __plot__ between __training and validation__(matplotlib).
+
+Deployed :
+https://share.streamlit.io/hemalathakumaresan/end-to-end-machine-learning-projects/main/app.py
+
